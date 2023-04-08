@@ -1,0 +1,25 @@
+body{
+    background-color:cadetblue;
+    min-height: 4000px;
+}
+div{
+    background-color: darkgreen;
+}
+.caption{
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    color: azure;
+}
+img{
+    padding: 90px;
+   margin-left: 400px;
+   width: 600px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: crimson;
+}
